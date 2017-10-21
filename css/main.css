@@ -1,0 +1,26 @@
+img {
+	width:500px;
+}
+h1 {
+	font-family: 'Poiret One', cursive;
+}
+
+h1#hiddenzodiac{
+	margin-top: 100px;
+	margin-bottom: 50px;
+	font-family:'Satisfy', cursive;
+	font-weight:900;
+	letter-spacing: 15px;
+	text-transform: uppercase;
+
+
+}
+
+span{
+	font-weight: 900;
+}
+
+p{
+	margin-top: 60px;
+	margin-bottom: 100px;
+}
